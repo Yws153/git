@@ -1,0 +1,24 @@
+{
+  "name": "reactHooksTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client:dev": "scripty",
+    "client:prod": "scripty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yws153/git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yws153/git/issues"
+  },
+  "homepage": "https://github.com/Yws153/git#readme",
+  "devDependencies": {
+    "scripty": "^1.9.1"
+  }
+}

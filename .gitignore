@@ -1,0 +1,8 @@
+# folder
+node_modules
+build
+
+# file
+*.DS_Store
+*.log
+*.sh
